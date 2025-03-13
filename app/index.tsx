@@ -1,13 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import "./global.css"
 
-const _layout = () => {
+const index = () => {
   return (
     <View>
-      <Text>_layout</Text>
+      <Text>index</Text>
     </View>
   )
 }
 
-export default _layout
+export default index
